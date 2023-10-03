@@ -30,6 +30,7 @@ const en = {
         icon: "SiGithub",
         link: "https://github.com/ScarecrowStraw",
       }
+      
     ],
     develop_by: "Developed by ",
     build_with: "Built with ",
