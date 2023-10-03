@@ -11,7 +11,7 @@ const vi = {
     theme_switcher: "Theme Switcher",
   },
   footer: {
-    about_me: "Tìm hiểu về mình",
+    about_me: "Tìm hiểu về chúng mình",
     links: [
       // // Format link in Footer
       // {
@@ -22,23 +22,11 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
-      },
-      {
-        icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "mailto:trienpm@vnu.edu.vn",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
-      },
-      {
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
-      },
-      {
-        icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://github.com/ScarecrowStraw",
       },
       
     ],
@@ -48,27 +36,10 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Đây là ngôi nhà DATLab",
       description:
-        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
-      image: "/assets/images/orion-nebula.jpg",
-      links: [
-        {
-          icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
-        },
-        {
-          icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
-        },
-        {
-          icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
-        },
-      ],
+        "Đây là một website nhỏ, private nơi lưu trữ, chia sẻ các văn bản, biểu mẫu huớng dẫn của lab. Đồng thời, cũng là nơi ghi lại các khoảnh khắc trong hành trình mọi người ở đây. Cảm ơn mọi người đã ghé qua. ❤️",
+      image: "/assets/images/DAT Labs.gif",
     },
     featured_posts: "Bài Viết Đặc Sắc",
     read_more: "Xem thêm",
@@ -86,10 +57,10 @@ const vi = {
         value: ["tutorial", "tip"],
       },
       {
-        name: "Notion",
+        name: "Guidelines",
         description:
-          "Các bài viết có nội dung về Notion và các tiện ích xung quanh Notion.",
-        value: ["notion"],
+          "Các bài viết hướng dẫn một vài quy chuẩn khi trình bày báo, tạp chí, và các biểu mẫu template liên quan",
+        value: ["guideline"],
       },
       {
         name: "Khác",
@@ -119,7 +90,7 @@ const vi = {
   },
   blog: {
     blog: "Blog",
-    intro: "Ở đây bạn có thể tìm thấy tất cả các bài viết của mình",
+    intro: "Ở đây bạn có thể tìm thấy tất cả các bài viết của chúng mình",
     find_posts: "Tìm kiếm bài viết...",
     not_found_post: "Không có bài viết nào",
   },
