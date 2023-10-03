@@ -23,29 +23,13 @@ const en = {
       {
         title: "Mail",
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
-      },
-      {
-        title: "Linkedin",
-        icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "mailto:trienpm@vnu.edu.vn",
       },
       {
         title: "Github",
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
-      },
-      {
-        title: "Gitlab",
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
-      },
-      {
-        title: "Facebook",
-        icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
-      },
-      
+        link: "https://github.com/ScarecrowStraw",
+      }
     ],
     develop_by: "Developed by ",
     build_with: "Built with ",
@@ -53,27 +37,10 @@ const en = {
   },
   home: {
     intro: {
-      header: "Hi, I'm Howz Nguyen",
+      header: "Hi, It's DATLab Home",
       description:
-        "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
-      image: "/assets/images/orion-nebula.jpg",
-      links: [
-        {
-          icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
-        },
-        {
-          icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
-        },
-        {
-          icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
-        },
-      ],
+        "This is where the lab's documents and guidance forms are stored for members. At the same time, this website will also be a place to mark the images and moments that you accompany the DATLab family. Thank you to everyone who contributed. ❤️",
+      image: "/assets/images/DAT Labs.gif",
     },
     featured_posts: "Featured Posts",
     read_more: "Read more",
@@ -90,10 +57,10 @@ const en = {
         value: ["tutorial", "tip"],
       },
       {
-        name: "Notion",
+        name: "Guidedance",
         description:
-          "Articles with content about Notion and utilities around Notion.",
-        value: ["notion"],
+          "Instructions on the procedures for writing articles, thesis and related templates",
+        value: ["guidance"],
       },
       {
         name: "Other",
