@@ -57,10 +57,10 @@ const vi = {
         value: ["tutorial", "tip"],
       },
       {
-        name: "Guidelines",
+        name: "Guidedance",
         description:
           "Các bài viết hướng dẫn một vài quy chuẩn khi trình bày báo, tạp chí, và các biểu mẫu template liên quan",
-        value: ["guideline"],
+        value: ["guidedance"],
       },
       {
         name: "Khác",
