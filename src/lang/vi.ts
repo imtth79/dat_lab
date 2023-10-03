@@ -40,6 +40,7 @@ const vi = {
       description:
         "Đây là một website nhỏ, private nơi lưu trữ, chia sẻ các văn bản, biểu mẫu huớng dẫn của lab. Đồng thời, cũng là nơi ghi lại các khoảnh khắc trong hành trình mọi người ở đây. Cảm ơn mọi người đã ghé qua. ❤️",
       image: "/assets/images/DAT Labs.gif",
+      link: [],
     },
     featured_posts: "Bài Viết Đặc Sắc",
     read_more: "Xem thêm",
