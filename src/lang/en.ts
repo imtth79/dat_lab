@@ -42,7 +42,7 @@ const en = {
       description:
         "This is where the lab's documents and guidance forms are stored for members. At the same time, this website will also be a place to mark the images and moments that you accompany the DATLab family. Thank you to everyone who contributed. ❤️",
       image: "/assets/images/DAT Labs.gif",
-      link: [],
+      links: [],
     },
     featured_posts: "Featured Posts",
     read_more: "Read more",
