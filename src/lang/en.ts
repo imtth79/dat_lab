@@ -62,7 +62,7 @@ const en = {
         name: "Guidelines",
         description:
           "Instructions on the procedures for writing articles, thesis and related templates",
-        value: ["guideline"],
+        value: ["guidelines"],
       },
       {
         name: "Other",
