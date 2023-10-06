@@ -32,35 +32,6 @@ const Footer = ({}: FooterProps) => {
 
         </div>
 
-        <p className="mt-4 text-sm text-gray-600 dark:text-gray-300">
-          © {new Date().getFullYear()} - {trans.footer.build_with}
-          <Link href="https://nextjs.org/" target="_blank" >
-            Next.js
-          </Link>
-          ,{" "}
-          <Link
-            href="https://tailwindcss.com/"
-            target="_blank"
-          >
-            Tailwind CSS
-          </Link>
-          ,{" "}
-          <Link
-            href="https://notion.so/"
-            target="_blank"
-          >
-            Notion
-          </Link>
-          . {trans.footer.develop_by}
-          <Link
-            href="https://github.com/imtth79"
-            target="_blank"
-          >
-            @imtth79
-          </Link>
-          {trans.footer.with} ❤️
-          .
-        </p>
       </main>
     </footer>
   )
