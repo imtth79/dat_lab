@@ -59,10 +59,10 @@ const en = {
         value: ["tutorial", "tip"],
       },
       {
-        name: "Guidedance",
+        name: "Guidelines",
         description:
           "Instructions on the procedures for writing articles, thesis and related templates",
-        value: ["guidance"],
+        value: ["guideline"],
       },
       {
         name: "Other",
