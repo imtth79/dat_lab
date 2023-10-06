@@ -20,7 +20,7 @@ const Footer = ({}: FooterProps) => {
               </Link>
             ))}
         </div>
-
+        
         <p className="mt-12 font-medium text-gray-600 dark:text-gray-300">{ trans.footer.about_me }</p>
 
         <div className="mt-2 flex space-x-4">
