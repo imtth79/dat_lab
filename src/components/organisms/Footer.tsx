@@ -56,7 +56,7 @@ const Footer = ({}: FooterProps) => {
             href="https://github.com/imtth79"
             target="_blank"
           >
-            @howznguyen
+            @imtth79
           </Link>
           {trans.footer.with} ❤️
           .
