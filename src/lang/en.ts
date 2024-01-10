@@ -54,6 +54,11 @@ const en = {
         value: ["code", "algorithm"],
       },
       {
+        name: "Project",
+        description: "Ongoing project",
+        value: ["project"],
+      },
+      {
         name: "Tutorial & Tips",
         description: "Tutorials or tips about programming and technology.",
         value: ["tutorial", "tip"],

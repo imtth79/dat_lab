@@ -52,6 +52,11 @@ const vi = {
         value: ["code", "algorithm"],
       },
       {
+        name: "Các dự án, đề tài",
+        description: "Các đề tài, dữ án đã và đang được thực hiện",
+        value: ["project"],
+      },
+      {
         name: "Tutorial & Tips",
         description:
           "Các bài viết hướng dẫn hoặc mẹo về lập trình và công nghệ.",
