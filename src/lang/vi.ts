@@ -53,7 +53,7 @@ const vi = {
       },
       {
         name: "Các dự án, đề tài",
-        description: "Các đề tài, dữ án đã và đang được thực hiện",
+        description: "Các đề tài, dự án đã và đang được thực hiện",
         value: ["project"],
       },
       {
